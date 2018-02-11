@@ -10,6 +10,6 @@
 * [x] [第三题](https://github.com/KongWiKi/pythonchallenge/blob/master/0x03.py)      --- 2018/02
 * [x] [第四题](https://github.com/KongWiKi/pythonchallenge/blob/master/0x04.py)      --- 2018/02
 * [x] [第五题](https://github.com/KongWiKi/pythonchallenge/blob/master/0x05.py)      --- 2018/02
-* [x] 第六题      --- 2018/02
+* [x] [第六题](https://github.com/KongWiKi/pythonchallenge/blob/master/0x06.py)      --- 2018/02
 
 
