@@ -15,7 +15,7 @@
 * [x] [第八题](https://github.com/KongWiKi/pythonchallenge/blob/master/0x08.py)      --- 2018/03
 * [x] [第九题](https://github.com/KongWiKi/pythonchallenge/blob/master/0x09.py)      --- 2018/03
 * [x] [第十题](https://github.com/KongWiKi/pythonchallenge/blob/master/0x10.py)      --- 2018/03
-* [ ] [第十一题](https://github.com/KongWiKi/pythonchallenge/blob/master/0x11.py)  --- 2019/01
-* [ ] [第十二题](https://github.com/KongWiKi/pythonchallenge/blob/master/0x12.py)  ---2019/01
+* [x] [第十一题](https://github.com/KongWiKi/pythonchallenge/blob/master/0x11.py)  --- 2019/01
+* [x] [第十二题](https://github.com/KongWiKi/pythonchallenge/blob/master/0x12.py)  ---2019/01
 
 
